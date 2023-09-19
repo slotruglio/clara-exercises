@@ -1,4 +1,4 @@
-# Esercizio 3
+# Esercizio 3
 Considerando le specifiche del sistema, ho deciso di utilizzare i seguenti servizi AWS:
 * Un'istanza EC2 per ospitare il webserver
 * Un'istanza RDS per ospitare il database MySQL
