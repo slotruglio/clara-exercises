@@ -32,5 +32,6 @@ Il diagramma è stato realizzato usando Draw.io. E' molto semplice, ma credo che
 
 
 
-## Considerazioni
+## Considerazioni
+
 In alcuni punti potrei aver utilizzato dei termini non corretti, ma credo che l'idea generale sia quella. Inoltre, non avendo mai utilizzato AWS, potrei aver fatto delle scelte non ottimali per quanto riguarda i servizi da utilizzare.
