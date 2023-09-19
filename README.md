@@ -26,6 +26,8 @@ Soluzione: [esercizio1](esercizio1)
 Scrivi una stringa crontab che ogni domenica notte crea un backup della cartella /home/user e lo invia ad un server remoto raggiungibile tramite SSH con user@192.168.1.100 
 (indica quale configurazione potrebbe essere necessaria per gestire l'autenticazione sul server remoto).
 
+Soluzione: [esercizio2](esercizio2)
+
 ## Esercizio 3
 Il team di sviluppo ha rilasciato una nuova web app basata sull'ultima versione di WordPress.
 
