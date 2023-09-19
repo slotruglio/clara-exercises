@@ -1,6 +1,9 @@
 # clara-exercises
 Questa repository è stata creata per raccogliere gli esercizi di Clara net per la posizione di Cloud Engineer. Di seguito sono elencati gli esercizi proposti. Le soluzioni si trovano nelle cartelle con il nome dell'esercizio.
 
+NB: Il codice è stato scritto e testato su un Macbook M1.
+NB2: Il codice è scritto in inglese per abitudine personale.
+
 ## Esercizio 1
 Scrivi uno script bash o python che conta il numero di file script in una directory raggruppandoli in base allo shebang interpreter. 
 
@@ -16,6 +19,8 @@ $ contaScript /usr/bin
 ...
 
 ```
+
+Soluzione: [esercizio1](esercizio1)
 
 ## Esercizio 2
 Scrivi una stringa crontab che ogni domenica notte crea un backup della cartella /home/user e lo invia ad un server remoto raggiungibile tramite SSH con user@192.168.1.100 
