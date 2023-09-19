@@ -26,7 +26,11 @@ Purtroppo non conosco ancora CloudFormation, Terraform e CDK, quindi non ho potu
 
 ## Diagramma
 Il diagramma è stato realizzato usando Draw.io. E' molto semplice, ma credo che sia sufficiente per rappresentare l'infrastruttura descritta, rispecchiando il grado di conoscenza che ho di AWS.
+
+
 ![Diagramma](diagram_aws.png)
+
+
 
 ## Considerazioni
 In alcuni punti potrei aver utilizzato dei termini non corretti, ma credo che l'idea generale sia quella. Inoltre, non avendo mai utilizzato AWS, potrei aver fatto delle scelte non ottimali per quanto riguarda i servizi da utilizzare.
