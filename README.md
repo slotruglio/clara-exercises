@@ -40,3 +40,8 @@ Il tuo compito è creare l'infrastruttura di produzione sulla base di queste ind
 5. [opzionale] Per il provisioning dell'infrastruttura puoi usare lo strumento di IaC che conosci meglio scegliendo tra CloudFormation, Terraform e CDK
 
 Descrivi in un file di testo tutte le componenti dell'infrastruttura e il motivo per cui hai scelto di usarle. Crea un diagramma infrastrutturale con i servizi che compongono l'infrastruttura e i collegamenti tra di essi.
+
+Soluzione: [esercizio3](esercizio3)
+
+## Considerazioni finali
+Vi ringrazio per l'opportunità, probabilmente alcune cose potrebbero essere fatte in altri modi, ma ho cercato di fare del mio meglio ed essere onesto sulle mie conoscenze attuali. Spero che il mio lavoro vi sia piaciuto e che possa essere utile per valutare la mia candidatura.
